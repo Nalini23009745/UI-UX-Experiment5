@@ -71,17 +71,18 @@ Surveys provide broad insights into user behavior, while interviews and usabilit
 3. User Personas
 
 ## Persona 1: Priya Mehta
-
-* **Age:** 27
-* **Occupation:** Software Engineer
-* **Location:** Bengaluru
-* **Goals:** Stay fit despite a busy work schedule.
-* **Behaviors:** Exercises 3 times a week; prefers guided videos.
-* **Pain Points:** Forgets workouts; loses motivation easily.
-* **Motivation:** Wants to reduce stress and improve energy levels.
+```
+Age:27
+Occupation:Software Engineer\
+Location: Bengaluru
+Goals: Stay fit despite a busy work schedule.
+Behaviors: Exercises 3 times a week; prefers guided videos.
+Pain Points:Forgets workouts; loses motivation easily.
+Motivation: Wants to reduce stress and improve energy levels.
+```
 
 ## Persona 2: Rahul Singh
-
+```
 Age:35
 Occupation:Marketing Executive
 Location: Mumbai
@@ -89,7 +90,7 @@ Goals: Lose weight and monitor progress over time.
 Behaviors: Starts fitness plans but often quits midway.
 Pain Points:Confused by too many fitness apps.
 Motivation: Aims for better health and appearance.
-
+```
 
 ## Scenario 2: Designing an E-Commerce Website for Local Handicrafts
 
@@ -119,7 +120,7 @@ Interviews reveal needs and limitations, field studies show real-world behaviors
 ## 3. User Personas
 
 Persona 1: Kavita Devi
-
+```
 Age:42
 Occupation:Handicraft Artisan
 Location:Jaipur
@@ -127,17 +128,18 @@ Goals:Expand her sales beyond local markets.
 Behaviors:Creates handmade pottery; sells locally.
 Pain Points:Doesn’t know how to sell online.
 Motivation:Support her family through sustainable income.
+```
 
 Persona 2: Arjun Patel
-
-Age:** 30
+```
+Age: 30
 Occupation:Interior Designer
 Location: Pune
 Goals:Find unique handmade products for clients.
 Behaviors:Shops online frequently.
 Pain Points:Hard to verify authenticity and origin.
 Motivation: Wants to promote local craftsmanship in his projects.
-
+```
 
 * Two UX scenarios were analyzed with clear **problem statements**, **research methods**, and **user personas**.
 * Identified **key user pain points**, **motivations**, and **design requirements**.
@@ -150,4 +152,3 @@ The study successfully identified major UX challenges and proposed effective sol
 User personas and research insights guided the creation of user-friendly, goal-oriented designs that improve engagement, trust, and accessibility.
 
 
-## Result:
